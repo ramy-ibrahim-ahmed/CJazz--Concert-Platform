@@ -31,7 +31,7 @@
 
           {% include 'parts/header.html' %}
 
-          {% include 'parts/navbar.html' %}
+          {% block navbar %}{% endblock navbar %}
 
           {% block content %}{% endblock content %}
 
