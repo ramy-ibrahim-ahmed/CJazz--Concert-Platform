@@ -13,10 +13,11 @@
 <h2>Features</h2>
 
 <ul>
-    <li><strong>Concert Schedule:</strong> Users can view the upcoming concerts and events at Cairo Jazz Club.</li>
+    <li><strong>Club Management:</strong> Club managers have access to features for setting plans, managing payments, and overseeing all aspects of the club's operations.</li>
     <li><strong>Artist Information:</strong> Users have access to information about the bands and artists collaborating with the club.</li>
-    <li><strong>Payment Plans:</strong> The club manager can set payment plans for users.</li>
-    <li><strong>Comprehensive Data:</strong> The system provides comprehensive data management, allowing the club manager to track various aspects of the club's operations.</li>
+    <li><strong>Concert Schedule:</strong> Users can view the upcoming concerts and events at Cairo Jazz Club.</li>
+    <li><strong>Contact Management:</strong> Users can easily get in touch with club managers for inquiries, collaboration opportunities, or issue resolution.</li>
+    <li><strong>User-Friendly Interface:</strong> Designed with a focus on usability, the system provides an intuitive interface for seamless navigation and interaction.</li>
 </ul>
 
 <h2>Technologies Used</h2>
@@ -33,7 +34,6 @@
     <li><strong>Clone the Repository:</strong>
         <pre><code>git clone https://github.com/your-username/cairo-jazz-club.git</code></pre>
     </li>
-    <!-- Add other steps as in the Markdown version -->
 </ol>
 
 <h2>Contributing</h2>
@@ -43,7 +43,6 @@
 <ol>
     <li>Fork the repository.</li>
     <li>Create your feature branch: <code>git checkout -b feature/my-feature</code>.</li>
-    <!-- Add other steps as in the Markdown version -->
 </ol>
 
 <h2>Acknowledgements</h2>
