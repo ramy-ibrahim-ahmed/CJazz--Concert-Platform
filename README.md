@@ -19,7 +19,7 @@ Users can easily get in touch with club managers for inquiries, collaboration op
 
 ---
 *User access throw our active artists infornmation*
-<img src="images/artist.png" alt="img" width="800"/>
+<img src="images/artists.png" alt="img" width="800"/>
 
 *User access throw our parties schedule*
 <img src="images/schedul.png" alt="img" width="800"/>
