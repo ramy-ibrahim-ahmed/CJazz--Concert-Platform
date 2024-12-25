@@ -2,7 +2,7 @@
 
 Cairo Jazz Club Management System is a web application designed to streamline the management of concerts and events at CJazz Club. It provides users with access to the schedule of parties, information about bands and artists collaborating with the club, and allows the club manager to set payment plans and access comprehensive data.
 
-Club managers have access to features for setting plans, managing payments, and overseeing all aspects of the club's operations.
+Managers have access to features for setting plans, managing payments, and overseeing all aspects of the club's operations.
 
 Users have access to information about the bands and artists collaborating with the club.
 
