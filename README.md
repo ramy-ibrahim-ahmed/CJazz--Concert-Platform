@@ -22,7 +22,7 @@ Users can easily get in touch with club managers for inquiries, collaboration op
 <img src="images/artists.png" alt="img" width="800"/>
 
 *User access throw our parties schedule*
-<img src="images/schedul.png" alt="img" width="800"/>
+<img src="images/schedule.png" alt="img" width="800"/>
 
 *User access throw our ticket planes*
 <img src="images/ticket.png" alt="img" width="800"/>
